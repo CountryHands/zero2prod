@@ -15,3 +15,8 @@
         - Creating test would like to see how database roll back is used.
         - Thing to do
             - I would like to split the test into different modules.
+
+    Chapter 4
+    1. Need to review alot of time lapsed between starting and ending this chapter
+       basic of logging would like to check out roll backs using the database instead
+       of mocking up a new database each time. Probably will review over the next few days before jumping into chapter 5.
